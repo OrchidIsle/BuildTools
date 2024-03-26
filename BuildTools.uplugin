@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"FriendlyName": "BuildTools",
+	"Description": "A collection of tools meant to be used as part of a Continuous Integration build process.",
+	"Category": "Other",
+	"CreatedBy": "Edward Teach",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "BuildTools",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
